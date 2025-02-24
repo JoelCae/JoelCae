@@ -5,7 +5,7 @@
   - I love programming,
   - And I am runner
 
-## Website and CV{
+## Website and CV
 - [My CV](https://joelcastillo.netlify.app/files/CV%20-%20Joel%20Castillo%20%28EN%29.pdf)
 - [Visit my wensite](https://joelcastillo.netlify.app)
 <!---
