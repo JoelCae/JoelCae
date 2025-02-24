@@ -15,7 +15,7 @@
 </div>
 -->
 
-## I code with
+## I work with
 <a href="https://www.r-project.org" target="_blank">
   <img align="left" title="R" alt="R" width="40px" src="./assets/Rlogo.png" />
 </a>
