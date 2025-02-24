@@ -24,6 +24,10 @@
   <img align="left" title="STATA" alt="STATA" width="40px" src="./assets/STATAlogo.png" />
 </a>
 
+<a href="https://www.python.org" target="_blank">
+  <img align="left" title="Python" alt="Python" width="40px" src="./assets/Pythonlogo.svg" />
+</a>
+
 <br clear="both">
 
 <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
