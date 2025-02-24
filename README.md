@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://github.com" target="_blank">
-  <img align="left" title="Github" alt="Github" width="40px" src="./assets/githublogo.png" />
+  <img align="left" title="Github" alt="Github" width="40px" src="./assets/github_logo.png" />
 </a>
 
 <a href="https://www.eviews.com/home.html" target="_blank">
