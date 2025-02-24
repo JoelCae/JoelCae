@@ -28,6 +28,20 @@
   <img align="left" title="Python" alt="Python" width="40px" src="./assets/Pythonlogo.svg" />
 </a>
 
+<a href="https://es.overleaf.com/project" target="_blank">
+  <img align="left" title="Overleaf" alt="Overleaf" width="40px" src="./assets/overleaflogo.png" />
+</a>
+
+<a href="https://github.com" target="_blank">
+  <img align="left" title="Github" alt="Github" width="40px" src="./assets/githublogo.png" />
+</a>
+
+<a href="https://www.eviews.com/home.html" target="_blank">
+  <img align="left" title="EViews" alt="EViews" width="40px" src="./assets/EViewslogo.png" />
+</a>
+
+
+
 <br clear="both">
 
 <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
