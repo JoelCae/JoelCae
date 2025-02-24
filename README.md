@@ -15,7 +15,11 @@
 
 ## I code with
 <a href="https://www.r-project.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/Rlogo.png" />
+  <img align="left" title="R" alt="R" width="40px" src="./assets/Rlogo.png" />
+</a>
+
+<a href="https://www.stata.com" target="_blank">
+  <img align="left" title="STATA" alt="STATA" width="40px" src="./assets/STATAlogo.png" />
 </a>
 
 <br clear="both">
