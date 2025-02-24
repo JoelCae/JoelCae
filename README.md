@@ -1,4 +1,5 @@
-<h2 align="left"> Hi! My name is Joel and I'm an economist. Welcome to my Github. </h2>
+<h2 align="left"> Hi! My name is Joel and I'm an economist. <br /> 
+  Welcome to my Github. </h2>
 
 ## About me 
   - I am passionate about economics and data,
