@@ -1,10 +1,9 @@
-<h2 align="left"> Hi! My name is Joel and I'm an economist. <br /> 
+<h2 align="left"> Hi, I'm Joel! <br /> 
   Welcome to my Github. </h2>
 
 ## About me 
   - I am passionate about economics and data,
   - I love programming,
-  - And I am runner
 
 ## Website and CV
 - [My CV](https://joelcastillo.netlify.app/files/CV_Joel_Castillo_EN.pdf)
