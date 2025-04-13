@@ -1,9 +1,15 @@
-<h2 align="left"> Hi, I'm Joel! <br /> 
-  Welcome to my Github. </h2>
+## Hi, I'm Joel! ✌
+
+  - I am an economsit.
+  - I work with data.
+  - I enjoy programming.
+  - I turn data into insights.
+  - I code to understand the world.
 
 ## About me 
-  - I am passionate about economics and data,
-  - I love programming,
+
+Economist with experience in research and applied economics across topics such as inflation, expectations, climate change, and agriculture. Passionate about using data science and statistical programming to generate insights. Continuously working to refine and expand my skills.
+
 
 ## Website and CV
 - [My CV](https://joelcastillo.netlify.app/files/CV_Joel_Castillo_EN.pdf)
