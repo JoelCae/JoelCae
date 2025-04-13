@@ -1,4 +1,4 @@
-## Hi, I'm Joel! ✌
+## Hi, I'm Joel! 👾
 
   - I am an economsit.
   - I work with data.
