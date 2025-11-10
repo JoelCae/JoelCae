@@ -1,6 +1,6 @@
 ## Hi, I'm Joel! 👾
 
-  - I am an economsit.
+  - I am an economist.
   - I work with data.
   - I enjoy programming.
   - I turn data into insights.
