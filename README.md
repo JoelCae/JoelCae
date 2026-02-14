@@ -8,7 +8,7 @@
 
 ## About me 
 
-Economist with experience in research and applied economics across topics such as inflation, expectations, climate change, and agriculture. Passionate about using data science and statistical programming to generate insights. Continuously working to refine and expand my skills.
+Economist with experience in research and applied economics across topics such as inflation, expectations, climate change, agricultural and spatial economics. Passionate about using data science and statistical programming to generate insights. Continuously working to refine and expand my skills.
 
 
 ## Website and CV
