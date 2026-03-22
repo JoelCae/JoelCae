@@ -42,12 +42,6 @@ Economist with experience in research and applied economics across topics such a
   <img align="left" title="Github" alt="Github" width="40px" src="./assets/githublogo1.svg" />
 </a>
 
-<a href="https://www.eviews.com/home.html" target="_blank">
-  <img align="left" title="EViews" alt="EViews" width="40px" src="./assets/EViewslogo.png" />
-</a>
-
-
-
 <br clear="both">
 
 <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
